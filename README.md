@@ -1,4 +1,6 @@
-# **Image Summarizing, Caption Generation, Hashtag Generation, Photo Editing**
+#*Captionific**
+
+### **Image Summarizing, Caption Generation, Hashtag Generation, Photo Editing*
 
 
 #### Welcome to the Image Processing and Captioning project! This repository combines advanced image summarization, caption generation, hashtag extraction, and photo editing functionalities.
